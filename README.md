@@ -42,7 +42,7 @@ This software is provided **free of charge for personal and non-commercial use o
 
 ⛔ Commercial use, resale, or redistribution without written permission is **strictly prohibited**.
    
-   ** For commercial use, please contact the author at e-mail**
+   **For commercial use, please contact the author at e-mail**
 
 📧 Contact: **e75dtk@gmail.com**
 
