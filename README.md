@@ -41,6 +41,8 @@ No hidden processes. No background connections. What you see is what you get.
 This software is provided **free of charge for personal and non-commercial use only**.
 
 ⛔ Commercial use, resale, or redistribution without written permission is **strictly prohibited**.
+   
+   ** For commercial use, please contact the author at e-mail**
 
 📧 Contact: **e75dtk@gmail.com**
 
