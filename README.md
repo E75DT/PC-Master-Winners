@@ -1,50 +1,38 @@
-# PC Master – Password Manager
+PC MASTER WINNERS - PORTABLE
 
-🧷 **PC Master** is a simple, fast, and user-friendly password manager built for local use.  
-No cloud, no accounts – just you and your data under full control.
+A clean, offline tool for transparent winner selection.
 
-[⬇️ Download Latest Version](https://github.com/E75DT/PC-Master-PasswordManager/releases/latest)
+No installation. No cloud. No spyware. Just results.
 
----
+Designed for:
 
-## 📸 App Preview
+• 📺 TV shows and broadcasts
 
-![App Screenshot](https://github.com/E75DT/PC-Master-PasswordManager/blob/main/screenshot.png?raw=true)
+• 📱 Facebook pages and social media contests
 
----
+• 🛍️ Shops and retail stores
 
-## 🔐 Features
+• 🧃 Brands offering product giveaways
 
-- Save and organize passwords for websites, apps, and services  
-- Automatically generate strong passwords  
-- Real-time password strength feedback  
-- 90-day password change reminders  
-- Portable and offline – no installation required
+• 🎉 Local promotions and raffle
 
----
+Participants are loaded from a simple  file. Winners are selected with visual rotation and audit-friendly logic.
 
-## 🌍 Multilingual Support
+No hidden processes. No background connections. What you see is what you get.
 
-Available in: 🇧🇦 🇭🇷 🇷🇸 🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇮🇹  
-App shows the proper `README_language.txt` based on installer selection.
+• 🎰 Visual draw animation
 
----
+• 📂 Load participants from file
 
-## 💻 Installation
+• 🏆 Displays 1st, 2nd, and 3rd place
 
-1. Download latest version from [Releases](https://github.com/E75DT/PC-Master-PasswordManager/releases/latest)  
-2. Run `PCMSetup.exe` to install _or_ use `password_manager.exe` from ZIP
+• 🧾 Includes demo file participants.txt
 
----
+• 📤 Automatically saves the selected winners to a timestamped  file (e.g. ) "winners_20250830_224227" in the same folder where the application is launched. No cloud, no redirection — full local control.
 
-## 📦 Included Files
+• 🖼️ Dark-themed interface with fixed logo
 
-- `PCMSetup.exe` – multilingual setup installer  
-- `password_manager.exe` – portable version  
-- `translations/` – language files  
-- `README_*.txt` – localized documentation
-
----
+• 🔒 No registry writes, no internet access
 
 ## ☕ License
 
