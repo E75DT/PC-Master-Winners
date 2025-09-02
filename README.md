@@ -46,4 +46,4 @@ This software is provided **free of charge for personal and non-commercial use o
 
 ---
 
-© 2025, Kečo – PC MASTER Development Team
+© 2025, Ibrahim Kečo – PC MASTER Development Team
