@@ -1,5 +1,7 @@
 PC MASTER WINNERS - PORTABLE
 
+Download latest version [🔗 PC MASTER – WINNERS on itch.io](https://pc-master-pro.itch.io/pc-master-winners)
+
 A clean, offline tool for transparent winner selection.
 
 No installation. No cloud. No spyware. Just results.
