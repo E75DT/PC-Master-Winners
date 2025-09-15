@@ -1,6 +1,6 @@
 ## 🏆 PC MASTER – WINNERS - PORTABLE
 
-Download latest version [🔗 HERE](https://pc-master-pro.itch.io/pc-master-winners)
+Download latest version [🔗 HERE](https://payhip.com/b/LXTuo)
 
 ## A clean, offline tool for transparent winner selection.
 
