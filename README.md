@@ -44,7 +44,7 @@ This software is provided **free of charge for personal and non-commercial use o
    
    **For commercial use, please contact the author at e-mail**
 
-📧 Contact: **e75dtk@gmail.com**
+📧 Contact: **support@pcmaster.ba**
 
 ---
 
